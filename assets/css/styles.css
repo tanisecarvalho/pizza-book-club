@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora&family=Montserrat&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+
+body {
+    font-family: 'Lora', sans-serif;
+    font-weight: 400;
+    color: #3a3a3a;
+    background-color: #E2DCD8;
+}
+
+/* headings */
+
+h1, h2 {
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    color: #344E55;
+}
