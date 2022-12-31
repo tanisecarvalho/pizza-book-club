@@ -122,3 +122,18 @@ section {
     margin: 2rem;
     gap: 1rem;
 }
+
+#container-about-us {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    width: 90%;
+    margin: 2rem 0;
+}
+
+.icon-steps {
+    width: 300px;
+    height: 300px;
+    border-radius: 10%;
+    
+}
