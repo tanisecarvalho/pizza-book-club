@@ -15,7 +15,7 @@ body {
 
 /* headings */
 
-h1, h2 {
+h1, h2, h3 {
     font-family: 'Montserrat', sans-serif;
     text-transform: uppercase;
     letter-spacing: 4px;
@@ -62,4 +62,63 @@ header {
 
 #logo {
     width: 150px;
+}
+
+section {
+    height: 600px;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+    display: flex;
+}
+
+/* Section Landing-Page */
+
+/* #landing-page {
+    height: 600px;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+    display: flex;
+} */
+
+#landing-background {
+    height: 600px;
+    width: 100%;
+    background: url('../images/landing-background.jpg') no-repeat center bottom;
+    background-size: cover;
+    opacity: 0.5;
+}
+
+#container-landing-text {
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+}
+
+#landing-text {
+    width: 50%;
+    height: 150px;
+    padding-top: 40px;
+    padding-left: 10px;
+    background-color: #344e55;
+    position: absolute;
+}
+
+#landing-text h2, h3 {
+    color: #ECC422;
+}
+
+#landing-text p {
+    color: #E2DCD8;
+    padding-top: 5px;
+}
+
+/* Section About */
+
+#about-us {
+    flex-direction: column;
+    align-items: center;
+    margin: 2rem;
+    gap: 1rem;
 }
