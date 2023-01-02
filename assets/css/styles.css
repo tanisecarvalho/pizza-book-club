@@ -25,6 +25,17 @@ section {
     margin: 2rem 0;
 }
 
+.reverse-section {
+    background-color: #344E55;
+    color: #E2DCD8;
+    margin: 0;
+    padding-top: 2rem;
+}
+
+.reverse-section h1, h2, h3 {
+    color:#ECC422;
+}
+
 /* headings */
 
 h1, h2, h3 {
@@ -122,13 +133,13 @@ header {
     gap: 1rem;
 }
 
-#container-about-us {
+#container-steps {
     display: flex;
     align-items: center;
     justify-content: space-around;
     gap: 1rem;
     width: 90%;
-    margin: 2rem 0;
+    margin-top: 2rem;
 }
 
 .steps {
@@ -161,3 +172,11 @@ header {
     border-bottom: 5px solid #894E37;
 }
 
+/* meetings section */
+
+#meetings {
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+    
+}
