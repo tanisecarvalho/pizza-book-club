@@ -216,5 +216,37 @@ header {
     background-size: cover;
 }
 
+/* contact section */
 
+#contact {
+    justify-content: space-evenly;
+    gap: 1rem;
+}
 
+#contact-us {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+#follow-us {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 2rem;
+}
+
+#follow-us-links {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
+#follow-us a {
+    text-decoration: none;
+}
+
+#follow-us i {
+    color:#344E55;
+}
