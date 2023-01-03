@@ -93,6 +93,9 @@ footer {
     gap: .1rem;
     padding-bottom: 1rem;
     text-align: center;
+    position: absolute;
+    width: 100%;
+    bottom: 0;
 }
 
 footer p {
