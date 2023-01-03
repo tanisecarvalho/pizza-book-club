@@ -375,3 +375,17 @@ footer i {
     background-color: #E2DCD8;
     cursor: pointer;
 }
+
+/* thank you page */
+#thank-you {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    gap: 1.5rem;
+}
+
+#thank-you-img {
+    width: 90%;
+    border: 5px solid #894E37;
+    border-radius: 10px;
+}   
