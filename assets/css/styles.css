@@ -46,7 +46,7 @@ h1, h2, h3 {
     color: #344E55;
 }
 
-/* header and logo */
+/* header */
 
 header {
     background-color: #344E55;
@@ -82,10 +82,6 @@ header {
 
 .active {
     border-bottom: 3px solid #894E37;
-}
-
-#logo {
-    width: 150px;
 }
 
 /* Section Landing-Page */
@@ -249,4 +245,27 @@ header {
 
 #follow-us i {
     color:#344E55;
+}
+
+/* footer */
+
+footer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: .1rem;
+    padding-bottom: 1rem;
+}
+
+footer p {
+    font-size: 1rem;
+}
+
+footer a {
+    text-decoration: none;
+    letter-spacing: 10px;
+}
+
+footer i {
+    color:#E2DCD8;
 }
