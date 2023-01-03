@@ -108,6 +108,7 @@ footer i {
     color:#E2DCD8;
 }
 
+
 /* Home Page style */
 
 /* Section Landing-Page */
@@ -152,12 +153,14 @@ footer i {
     flex-direction: column;
     align-items: center;
     gap: 1rem;
+    text-align: center;
 }
 
 #container-steps {
     display: flex;
     align-items: center;
-    justify-content: space-around;
+    justify-content: center;
+    flex-wrap: wrap;
     gap: 1rem;
     width: 90%;
     margin-top: 2rem;
@@ -199,14 +202,15 @@ footer i {
     flex-direction: column;
     align-items: center;
     gap: 1rem;
-    
+    text-align: center;
 }
 
 #meetings-pictures {
     width: 90%;
     display: flex;
     align-items: center;
-    justify-content: space-evenly;
+    justify-content: center;
+    flex-wrap: wrap;
     gap: 1rem;
     margin: 2rem 0;
 }
@@ -397,4 +401,23 @@ footer i {
 
 .back-home-page:hover {
     color:#ECC422;
+}
+
+/* media queries */
+
+@media screen and (max-width:768px) {
+    header, #menu, #contact {
+        flex-direction: column;
+    }
+
+    #menu {
+        line-height: normal;
+        margin: 0 0 2rem;
+        gap: 1rem;
+        text-align: center;
+    }
+
+    .join-us-form {
+        width: 90%;
+    }
 }
