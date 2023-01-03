@@ -92,6 +92,7 @@ footer {
     align-items: center;
     gap: .1rem;
     padding-bottom: 1rem;
+    text-align: center;
 }
 
 footer p {
@@ -322,6 +323,55 @@ footer i {
 }
 
 .books-button:hover {
+    background-color: #E2DCD8;
+    cursor: pointer;
+}
+
+/* join us page */
+
+#join-us {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    gap: 1.5rem;
+}
+
+.join-us-form {
+    background-color: #344E55;
+    padding: 2rem;
+    border-radius: 10px;
+    max-width: 500px;
+}
+
+#form-input-container {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding-top: 1rem;
+    color: #E2DCD8;
+}
+
+.form-input {
+    color: #3a3a3a;
+    width: 100%;
+    height: 25px;
+    margin: 5px 0 10px;
+    padding: .3rem;
+    border-radius: 2px;
+}
+
+.form-button {
+    padding: 1rem;
+    border-radius: 3px;
+    margin-top: 10px;
+    background-color:#ECC422;
+    border: 2px solid #894E37;
+    border-radius: 5px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bolder;
+}
+
+.form-button:hover {
     background-color: #E2DCD8;
     cursor: pointer;
 }

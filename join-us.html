@@ -40,7 +40,18 @@
         <h1>Join Us</h1>
         <p>Fill up the form bellow and join our bookclub.</p>
 
-        insert the form here
+        <form action="thank-you.html" method="get" class="join-us-form">
+            <h3>Are you ready for a wonder of books and pizzas? <i class="fa-solid fa-book"></i><i class="fa-solid fa-pizza-slice"></i></h3>
+            <div id="form-input-container">
+                <label for="fname">First Name:</label>
+                <input type="text" class="form-input" name="fname" id="fname" placeholder="First Name" required>
+                <label for="lname">Last Name:</label>
+                <input type="text" class="form-input" name="lname" id="lname" placeholder="Last Name" required>
+                <label for="email">Email Address:</label>
+                <input type="email" class="form-input" name="email" id="email" placeholder="Email Address" required>
+                <input type="submit" class="form-button" value="Join Now!" class="join-button">
+            </div>
+        </form>
     </section>
 
     <footer class="reverse-section">
