@@ -327,11 +327,12 @@ footer i {
     border: 2px solid #894E37;
     border-radius: 5px;
     font-family: 'Montserrat', sans-serif;
+    text-decoration: none;
+    color: #344E55;
 }
 
 .books-button:hover {
     background-color: #E2DCD8;
-    cursor: pointer;
 }
 
 /* join us page */
@@ -377,6 +378,7 @@ footer i {
     border-radius: 5px;
     font-family: 'Montserrat', sans-serif;
     font-weight: bolder;
+    font-size: 1rem;
 }
 
 .form-button:hover {
@@ -413,7 +415,7 @@ footer i {
     body {
         font-size: 1rem;
     }
-    
+
     header, #menu, #contact {
         flex-direction: column;
     }
