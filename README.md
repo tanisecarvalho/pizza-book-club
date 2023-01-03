@@ -22,3 +22,6 @@
 - October:
 - November:
 - December: 
+
+## Help
+- Add the hand to the cursor on the buy button: https://developer.mozilla.org/en-US/docs/Web/CSS/cursor

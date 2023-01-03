@@ -302,3 +302,20 @@ footer i {
     font-size: 1rem;
     color: #E2DCD8;
 }
+
+.books img {
+    height: 180px;
+}
+
+.books-button {
+    padding: .5rem;
+    background-color:#ECC422;
+    border: 2px solid #894E37;
+    border-radius: 5px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.books-button:hover {
+    background-color: #E2DCD8;
+    cursor: pointer;
+}
