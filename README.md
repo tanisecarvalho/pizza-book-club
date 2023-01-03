@@ -8,6 +8,9 @@
 1. Homepage keeps with an extra margin on the right side.
 
     I had a margin of 2rem on the about-us section that was causing the issue. I commented section by section to see which one was causing the issue. I added a 0 on the margin for the sides.
+2. Footer was not sticking to the bottom.
+    I put bottom: 0, but it still was not working. Devtools showed that it would not be changed with a static position. So I changed the footer position to absolute and width to 100% because it change the width to smaller when I changed the position.
+    Changing to absolute worked with pages with less content but not with larger content, so I changed to fixed and it worked.
 
 ## Books' Images
 - January: https://www.amazon.co.uk/N%C3%B6thin-But-Good-Time-Uncensored/dp/1250195756
