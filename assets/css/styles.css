@@ -384,8 +384,17 @@ footer i {
     gap: 1.5rem;
 }
 
-#thank-you-img {
+#images-solo {
     width: 90%;
     border: 5px solid #894E37;
     border-radius: 10px;
 }   
+
+.back-home-page {
+    color: #894E37;
+    text-decoration: none;
+}
+
+.back-home-page:hover {
+    color:#ECC422;
+}
