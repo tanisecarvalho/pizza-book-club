@@ -1,5 +1,17 @@
 # Everything is Better With Pizza Book Club 🍕📚
 
+Everything is Better With Pizza Book Club is a site that hopes to connect people in Dublin, Ireland who are passionate about reading and love eating pizza. The book club runs on a montly basis. There is a book selected to each month and the meetings happen at a different pizza place every month. 
+
+Users of this website will find all the information about the club. On the home page we have: About the club, how it works, meetings, contact and follow us. On the 2023 Picks we have a list of all the books planned for 2023. On the Join Us page there is a sign up form. This site is target at people who love reading and share another commom interest: pizza. 🍕
+
+![Am I Responsive?](docs/screenshots/am-i-responsive.JPG)
+
+***
+
+## Features
+
+
+
 ## Logo
 
 ![Logo](assets/images/logo.png)
@@ -31,3 +43,26 @@
 
 ## Help
 - Add the hand to the cursor on the buy button: https://developer.mozilla.org/en-US/docs/Web/CSS/cursor
+
+***
+
+## Wireframes
+
+### Desktop
+
+![Home](docs/wireframes/01-home.png)
+
+![2023 Picks](docs/wireframes/02-2023-picks.png)
+
+![Join Us](docs/wireframes/03-join-us.png)
+
+![Thank You](docs/wireframes/04-thank-you.png)
+
+![404](docs/wireframes/05-404.png)
+
+### Mobile
+
+![Home](docs/wireframes/06-mobile-home.png)
+
+![Others](docs/wireframes/07-mobile-others.png)
+
