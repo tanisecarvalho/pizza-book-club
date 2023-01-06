@@ -157,7 +157,7 @@ The live link can be found here - https://tanisecarvalho.github.io/pizza-book-cl
 
 ### Logo
 
-The Logo was create on [Canva](https://www.canva.com/).
+The Logo was created on [Canva](https://www.canva.com/).
 
 ![Logo](docs/logo.png)
 
