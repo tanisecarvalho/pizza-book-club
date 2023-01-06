@@ -138,18 +138,21 @@ The live link can be found here - https://tanisecarvalho.github.io/pizza-book-cl
 - Besides the books covers, all the images were taken from [Pexels](https://www.pexels.com/)
 
 - __Books Covers__
-    - January: https://www.amazon.co.uk/N%C3%B6thin-But-Good-Time-Uncensored/dp/1250195756
-    - February: https://www.amazon.com/Fire-Blood-Thrones-Targaryen-History-ebook/dp/B07C6TBTV3
-    - March: https://www.kobo.com/ie/en/ebook/friends-lovers-and-the-big-terrible-thing-2
-    - April: https://www.amazon.ca/Find-Your-Why-Practical-Discovering/dp/0143111728
-    - May: https://www.amazon.co.uk/Storyteller-Tales-Life-Music/dp/139850372X
-    - June: https://www.amazon.co.uk/AM-Club-Your-Morning-Elevate/dp/1443456624
-    - July: https://www.amazon.co.uk/First-21-York-Times-Bestseller/dp/1408716119
-    - August: https://www.amazon.co.uk/Beautiful-World-Where-Are-internationally/dp/0571365426
-    - September: https://www.amazon.com/Beyond-Wand-Mayhem-Growing-Wizard-ebook/dp/B09ZXMG884
-    - October: https://www.easons.com/the-midnight-library-matt-haig-9781786892737
-    - November: https://www.amazon.co.uk/Madly-Deeply-Alan-Rickman-Diaries/dp/1838854797
-    - December: https://www.goodreads.com/book/show/57425158-the-opposite-of-butterfly-hunting
+
+    The images from the book covers were taken from the following websites:
+
+    - January: [Amazon](https://www.amazon.co.uk/N%C3%B6thin-But-Good-Time-Uncensored/dp/1250195756)
+    - February: [Amazon](https://www.amazon.com/Fire-Blood-Thrones-Targaryen-History-ebook/dp/B07C6TBTV3)
+    - March: [Kobo](https://www.kobo.com/ie/en/ebook/friends-lovers-and-the-big-terrible-thing-2)
+    - April: [Amazon](https://www.amazon.ca/Find-Your-Why-Practical-Discovering/dp/0143111728)
+    - May: [Amazon](https://www.amazon.co.uk/Storyteller-Tales-Life-Music/dp/139850372X)
+    - June: [Amazon](https://www.amazon.co.uk/AM-Club-Your-Morning-Elevate/dp/1443456624)
+    - July: [Amazon](https://www.amazon.co.uk/First-21-York-Times-Bestseller/dp/1408716119)
+    - August: [Amazon](https://www.amazon.co.uk/Beautiful-World-Where-Are-internationally/dp/0571365426)
+    - September: [Amazon](https://www.amazon.com/Beyond-Wand-Mayhem-Growing-Wizard-ebook/dp/B09ZXMG884)
+    - October: [Easons](https://www.easons.com/the-midnight-library-matt-haig-9781786892737)
+    - November: [Amazon](https://www.amazon.co.uk/Madly-Deeply-Alan-Rickman-Diaries/dp/1838854797)
+    - December: [Goodreads](https://www.goodreads.com/book/show/57425158-the-opposite-of-butterfly-hunting)
 
 ***
 
