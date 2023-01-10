@@ -119,11 +119,35 @@ The palette was defined uploading the logo on the [Canva Color Palette Generator
     ![Home Page on Firefox](docs/screenshots/firefox-home.JPG)
     ![2023 Picks on Firefox](docs/screenshots/firefox-picks.JPG)
     ![Join Us on Firefox](docs/screenshots/firefox-join.JPG)
-- This site was tested on the browsers Chrome and Safari on mobile (iPhone SE) and it worked.
-    <br>
-    <img src="docs/screenshots/chrome-mobile.PNG" height="400" alt="Chrome on Mobile">
-    <img src="docs/screenshots/safari-mobile.PNG" height="400" alt="Safari on Mobile">
+
 - I tested the responsiveness of this site on devtools and I can confirm it worked for all screen sizes.
+    - __iPhone SE - 375 x 667__
+        - Home
+        <br>
+        <img src="docs/screenshots/iphone-home-1.JPG" width="150">
+        <img src="docs/screenshots/iphone-home-2.JPG" width="150">
+        <img src="docs/screenshots/iphone-home-3.JPG" width="150">
+        <img src="docs/screenshots/iphone-home-4.JPG" width="150">
+        <img src="docs/screenshots/iphone-home-5.JPG" width="150">
+        <br>
+        - 2023 Picks
+        <br>
+        <img src="docs/screenshots/iphone-picks.JPG" width="150">
+        - Join Us
+        <br>
+        <img src="docs/screenshots/iphone-join.JPG" width="150">
+    - __iPad Air - 820 x 1180__
+        - Home
+        <br>
+        <img src="docs/screenshots/ipad-home-1.JPG" width="250">
+        <img src="docs/screenshots/ipad-home-2.JPG" width="250">
+        <br>
+        - 2023 Picks
+        <br>
+        <img src="docs/screenshots/ipad-picks.JPG" width="250">
+        - Join Us
+        <br>
+        <img src="docs/screenshots/ipad-join.JPG" width="250">
 
 - I confirm that all the navigation links, icons with links and buttons are working.
 - I can confirm that the form works properly. All the inputs are required, the email is validated and the submit button works.
