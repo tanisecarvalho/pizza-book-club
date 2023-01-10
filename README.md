@@ -111,14 +111,20 @@ The palette was defined uploading the logo on the [Canva Color Palette Generator
     ![Home Page on Chrome](docs/screenshots/chrome-home.JPG)
     ![2023 Picks on Chrome](docs/screenshots/chrome-picks.JPG)
     ![Join Us on Chrome](docs/screenshots/chrome-join.JPG)
+    ![Thank You on Chrome](docs/screenshots/chrome-thank.JPG)
+    ![404 on Chrome](docs/screenshots/chrome-404.JPG)
     - __Safari__
     ![Home Page on Safari](docs/screenshots/safari-home.JPG)
     ![2023 Picks on Safari](docs/screenshots/safari-picks.JPG)
     ![Join Us on Safari](docs/screenshots/safari-join.JPG)
+    ![Thank You on Safari](docs/screenshots/safari-thank.JPG)
+    ![404 on Safari](docs/screenshots/safari-404.JPG)
     - __Firefox__
     ![Home Page on Firefox](docs/screenshots/firefox-home.JPG)
     ![2023 Picks on Firefox](docs/screenshots/firefox-picks.JPG)
     ![Join Us on Firefox](docs/screenshots/firefox-join.JPG)
+    ![Thank You on Firefox](docs/screenshots/firefox-thank.JPG)
+    ![404 on Firefox](docs/screenshots/firefox-404.JPG)
 
 - I tested the responsiveness of this site on devtools and I can confirm it worked for all screen sizes.
     - __iPhone SE - 375 x 667__
@@ -138,6 +144,14 @@ The palette was defined uploading the logo on the [Canva Color Palette Generator
             <br>
             <img src="docs/screenshots/iphone-join.JPG" width="150">
             <br>
+        - Thank You
+            <br>
+            <img src="docs/screenshots/iphone-thank.JPG" width="150">
+            <br>
+        - 404
+            <br>
+            <img src="docs/screenshots/iphone-404.JPG" width="150">
+            <br>
 
     - __iPad Air - 820 x 1180__
         - Home
@@ -152,6 +166,14 @@ The palette was defined uploading the logo on the [Canva Color Palette Generator
         - Join Us
             <br>
             <img src="docs/screenshots/ipad-join.JPG" width="250">
+            <br>
+        - Thank You
+            <br>
+            <img src="docs/screenshots/ipad-thank.JPG" width="250">
+            <br>
+        - 404
+            <br>
+            <img src="docs/screenshots/ipad-404.JPG" width="250">
             <br>
 
 - I confirm that all the navigation links, icons with links and buttons are working.
