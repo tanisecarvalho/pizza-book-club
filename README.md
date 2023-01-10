@@ -107,8 +107,24 @@ The palette was defined uploading the logo on the [Canva Color Palette Generator
 ### Responsiveness
 
 - This site was tested on the browsers: Firefox, Chrome and Safari on desktop and it worked.
-- This site was tested on the browsers Chrome and Safari on mobile and it worked.
+    - __Chrome__
+    ![Home Page on Chrome](docs/screenshots/chrome-home.JPG)
+    ![2023 Picks on Chrome](docs/screenshots/chrome-picks.JPG)
+    ![Join Us on Chrome](docs/screenshots/chrome-join.JPG)
+    - __Safari__
+    ![Home Page on Safari](docs/screenshots/safari-home.JPG)
+    ![2023 Picks on Safari](docs/screenshots/safari-picks.JPG)
+    ![Join Us on Safari](docs/screenshots/safari-join.JPG)
+    - __Firefox__
+    ![Home Page on Firefox](docs/screenshots/firefox-home.JPG)
+    ![2023 Picks on Firefox](docs/screenshots/firefox-picks.JPG)
+    ![Join Us on Firefox](docs/screenshots/firefox-join.JPG)
+- This site was tested on the browsers Chrome and Safari on mobile (iPhone SE) and it worked.
+    <br>
+    <img src="docs/screenshots/chrome-mobile.PNG" height="400" alt="Chrome on Mobile">
+    <img src="docs/screenshots/safari-mobile.PNG" height="400" alt="Safari on Mobile">
 - I tested the responsiveness of this site on devtools and I can confirm it worked for all screen sizes.
+
 - I confirm that all the navigation links, icons with links and buttons are working.
 - I can confirm that the form works properly. All the inputs are required, the email is validated and the submit button works.
 
@@ -150,7 +166,22 @@ The palette was defined uploading the logo on the [Canva Color Palette Generator
 
 The live link can be found here - https://tanisecarvalho.github.io/pizza-book-club/
 
-***
+### Clone/Forking
+- To fork this site go to its GitHub repository https://github.com/tanisecarvalho/pizza-book-club
+    - On the top right of the page there's a button with the option Fork, click on it.
+    - A new page "Create a new fork" will open. If you wish, you can edit the name.
+    - In the end of the page click on the button "Create fork".
+    - Now you have a copy of the project on your repositories.
+
+### Local Deployment
+- This site was developed using Gitpod. To edit your copy on Gitpod you will need to: 
+    - On your browser of choice install the gitpod extension/add-on.
+    - On GitHub open the project repository you forked before.
+    - On the top of the page, over the files, there is a green button on the right side of the page saying "Gitpod". Click it.
+    - It will open the Gitpod website. On the first time, you will select to connect with your GitHub account and Authorize gitpod-io. After that you'll be creating an account.
+        - It might take a while after that because gitpod will be creating your workspace.
+    - After the workspace is loaded, you're able to edit it on Gitpod.
+    ***
 ## Credits
 
 ### Content
