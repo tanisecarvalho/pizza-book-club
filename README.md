@@ -5,6 +5,30 @@ Everything is Better With Pizza Book Club is a site that hopes to connect people
 Users of this website will find all the information about the club. On the home page we have: About the club, how it works, meetings, contact and follow us. On the 2023 Picks we have a list of all the books planned for 2023. On the Join Us page there is a sign up form. This site is target at people who love reading and share another commom interest: pizza. 🍕
 
 ![Am I Responsive?](docs/screenshots/am-i-responsive.JPG)
+[Live Link](https://tanisecarvalho.github.io/pizza-book-club/)
+***
+
+## Technologies
+
+- HTML
+    - This project uses HTML to structure the website
+- CSS
+    - This project uses CSS to style the website
+- Google Fonts
+    - This projects uses Google Fonts
+        - [Montserrat](https://fonts.google.com/specimen/Montserrat/)
+        - [Lora](https://fonts.google.com/specimen/Lora/)
+- Font Awesome
+    - This project uses [Font Awesome](https://fontawesome.com/icons) for icons
+- GitHub Pages
+    - This project uses GitHub page to host the website
+- Balsamiq
+    - This project uses [Balsamiq](https://balsamiq.com/) to create wireframes
+- Canva
+    - This project uses [Canva](https://www.canva.com/) to create the logo
+    - This project uses [Canva Color Palette Generator](https://www.canva.com/colors/color-palette-generator/) to create the color scheme
+- Pexel
+    - This project uses [Pexels](https://www.pexels.com/) for images
 
 ***
 
@@ -228,7 +252,7 @@ The palette was defined uploading the logo on the [Canva Color Palette Generator
   - From the branch section drop-down menu, select main, right on the side select /root.
   - Once the the branch menus have been selected, github will create the page. It might take a few minutes. Once it is done a link will show up on the top of the page.
 
-The live link can be found here - https://tanisecarvalho.github.io/pizza-book-club/
+The live link can be found here - [Everything is Better with Pizza Book Club](https://tanisecarvalho.github.io/pizza-book-club/)
 
 ### Clone/Forking
 - To fork this site go to its GitHub repository https://github.com/tanisecarvalho/pizza-book-club
