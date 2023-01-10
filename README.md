@@ -1,11 +1,29 @@
 # Everything is Better With Pizza Book Club 🍕📚
 
+## Purpose:
+
 Everything is Better With Pizza Book Club is a site that hopes to connect people in Dublin, Ireland who are passionate about reading and love eating pizza. The book club runs on a montly basis. There is a book selected to each month and the meetings happen at a different pizza place every month. 
 
-Users of this website will find all the information about the club. On the home page we have: About the club, how it works, meetings, contact and follow us. On the 2023 Picks we have a list of all the books planned for 2023. On the Join Us page there is a sign up form. This site is target at people who love reading and share another commom interest: pizza. 🍕
+## Target:
+
+This site is target at people who love reading and share another commom interest: pizza. 🍕
+
+## User Stories
+
+- As an user, I want to find all the information about the club.
+- As an user, I want to know how I can join the club.
+- As an user, I want to know how the meetings work.
+- As an user, I want to see what books are selected for the year.
+- As an user, I want to contact the club.
+- As an user, I want to know the club social media.
+- As an user, I want to join the club.
+- As an user, I want to have an easy and clear view of the website on my mobile and desktop.
+- As an user, I want to return to the website and see if there are any updates.
+
+### [Live Link](https://tanisecarvalho.github.io/pizza-book-club/)
 
 ![Am I Responsive?](docs/screenshots/am-i-responsive.JPG)
-[Live Link](https://tanisecarvalho.github.io/pizza-book-club/)
+
 ***
 
 ## Technologies
@@ -27,7 +45,7 @@ Users of this website will find all the information about the club. On the home 
 - Canva
     - This project uses [Canva](https://www.canva.com/) to create the logo
     - This project uses [Canva Color Palette Generator](https://www.canva.com/colors/color-palette-generator/) to create the color scheme
-- Pexel
+- Pexels
     - This project uses [Pexels](https://www.pexels.com/) for images
 - Favicon.io
     - This project uses [Favicon.io](https://favicon.io/) to transform the logo into a favicon
