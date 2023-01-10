@@ -8,6 +8,27 @@ Users of this website will find all the information about the club. On the home 
 
 ***
 
+## UI/UX
+
+### Logo
+
+The Logo was created on [Canva](https://www.canva.com/).
+
+![Logo](docs/logo.png)
+
+### Color Scheme
+
+The palette was defined uploading the logo on the [Canva Color Palette Generator](https://www.canva.com/colors/color-palette-generator/)
+
+- #E2DCD8
+- #344E55
+- #ECC422
+- #894E37
+
+![Palette](docs/screenshots/palette.JPG)
+
+***
+
 ## Features
 
 - __Navigation__
@@ -136,6 +157,13 @@ The live link can be found here - https://tanisecarvalho.github.io/pizza-book-cl
 ### Media
 
 - Besides the books covers, all the images were taken from [Pexels](https://www.pexels.com/)
+    - __Home Page__
+        - [Landing Section Background](https://www.pexels.com/photo/photo-of-pizza-near-book-3229356/)
+        - Meetings: [Left](https://www.pexels.com/photo/coworkers-having-pizza-for-lunch-at-an-office-6914457/), [Center](https://www.pexels.com/photo/photo-of-people-holding-pizza-3944307/), and [Right](https://www.pexels.com/photo/a-group-of-people-eating-pizza-while-having-conversation-6150520/)
+    - __Thank You Page__
+        - [Thank You Image](https://www.pexels.com/photo/a-man-eating-pizza-reading-a-book-of-hamlet-9560431/)
+    - __404 Page__
+        - [404 Image](https://www.pexels.com/photo/boxes-of-pizza-on-picnic-blanket-9353454/)
 
 - __Books Covers__
 
@@ -153,27 +181,6 @@ The live link can be found here - https://tanisecarvalho.github.io/pizza-book-cl
     - October: [Easons](https://www.easons.com/the-midnight-library-matt-haig-9781786892737)
     - November: [Amazon](https://www.amazon.co.uk/Madly-Deeply-Alan-Rickman-Diaries/dp/1838854797)
     - December: [Goodreads](https://www.goodreads.com/book/show/57425158-the-opposite-of-butterfly-hunting)
-
-***
-
-## Desing
-
-### Logo
-
-The Logo was created on [Canva](https://www.canva.com/).
-
-![Logo](docs/logo.png)
-
-### Color Scheme
-
-The palette was defined uploading the logo on the [Canva Color Palette Generator](https://www.canva.com/colors/color-palette-generator/)
-
-- #E2DCD8
-- #344E55
-- #ECC422
-- #894E37
-
-![Palette](docs/screenshots/palette.JPG)
 
 ***
 
