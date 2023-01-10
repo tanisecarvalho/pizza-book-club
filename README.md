@@ -245,7 +245,9 @@ The live link can be found here - https://tanisecarvalho.github.io/pizza-book-cl
     - It will open the Gitpod website. On the first time, you will select to connect with your GitHub account and Authorize gitpod-io. After that you'll be creating an account.
         - It might take a while after that because gitpod will be creating your workspace.
     - After the workspace is loaded, you're able to edit it on Gitpod.
-    ***
+
+***
+
 ## Credits
 
 ### Content
