@@ -395,15 +395,16 @@ footer i {
     cursor: pointer;
 }
 
-/* thank you page */
-#thank-you {
+/* thank you and 404 pages */
+.response-only-page {
     flex-direction: column;
     align-items: center;
     text-align: center;
     gap: 1.5rem;
+    flex-grow: 1;
 }
 
-#images-solo {
+.images-solo {
     width: 90%;
     border: 5px solid #894E37;
     border-radius: 10px;

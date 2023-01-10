@@ -160,7 +160,12 @@ The palette was defined uploading the logo on the [Canva Color Palette Generator
 ### Validator Testing
 
 - HTML
-  - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Ftanisecarvalho.github.io%2Fpizza-book-club%2F)
+  - No errors were returned when passing through the official W3C validator
+    - [Home Page](https://validator.w3.org/nu/?doc=https%3A%2F%2Ftanisecarvalho.github.io%2Fpizza-book-club%2F)
+    - [2023 Picks]()
+    - [Join Us]()
+    - [Thank You]()
+    - [404]()
 - CSS
   - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Ftanisecarvalho.github.io%2Fpizza-book-club%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 - Accessibility
