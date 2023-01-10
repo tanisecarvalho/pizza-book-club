@@ -21,7 +21,7 @@ Users of this website will find all the information about the club. On the home 
 - Font Awesome
     - This project uses [Font Awesome](https://fontawesome.com/icons) for icons
 - GitHub Pages
-    - This project uses GitHub page to host the website
+    - This project uses GitHub pages to host the website
 - Balsamiq
     - This project uses [Balsamiq](https://balsamiq.com/) to create wireframes
 - Canva
@@ -29,6 +29,8 @@ Users of this website will find all the information about the club. On the home 
     - This project uses [Canva Color Palette Generator](https://www.canva.com/colors/color-palette-generator/) to create the color scheme
 - Pexel
     - This project uses [Pexels](https://www.pexels.com/) for images
+- Favicon.io
+    - This project uses [Favicon.io](https://favicon.io/) to transform the logo into a favicon
 
 ***
 
