@@ -123,31 +123,36 @@ The palette was defined uploading the logo on the [Canva Color Palette Generator
 - I tested the responsiveness of this site on devtools and I can confirm it worked for all screen sizes.
     - __iPhone SE - 375 x 667__
         - Home
-        <br>
-        <img src="docs/screenshots/iphone-home-1.JPG" width="150">
-        <img src="docs/screenshots/iphone-home-2.JPG" width="150">
-        <img src="docs/screenshots/iphone-home-3.JPG" width="150">
-        <img src="docs/screenshots/iphone-home-4.JPG" width="150">
-        <img src="docs/screenshots/iphone-home-5.JPG" width="150">
-        <br>
+            <br>
+            <img src="docs/screenshots/iphone-home-1.JPG" width="150">
+            <img src="docs/screenshots/iphone-home-2.JPG" width="150">
+            <img src="docs/screenshots/iphone-home-3.JPG" width="150">
+            <img src="docs/screenshots/iphone-home-4.JPG" width="150">
+            <img src="docs/screenshots/iphone-home-5.JPG" width="150">
+            <br>
         - 2023 Picks
-        <br>
-        <img src="docs/screenshots/iphone-picks.JPG" width="150">
+            <br>
+            <img src="docs/screenshots/iphone-picks.JPG" width="150">
+            <br>
         - Join Us
-        <br>
-        <img src="docs/screenshots/iphone-join.JPG" width="150">
+            <br>
+            <img src="docs/screenshots/iphone-join.JPG" width="150">
+            <br>
+
     - __iPad Air - 820 x 1180__
         - Home
-        <br>
-        <img src="docs/screenshots/ipad-home-1.JPG" width="250">
-        <img src="docs/screenshots/ipad-home-2.JPG" width="250">
-        <br>
+            <br>
+            <img src="docs/screenshots/ipad-home-1.JPG" width="250">
+            <img src="docs/screenshots/ipad-home-2.JPG" width="250">
+            <br>
         - 2023 Picks
-        <br>
-        <img src="docs/screenshots/ipad-picks.JPG" width="250">
+            <br>
+            <img src="docs/screenshots/ipad-picks.JPG" width="250">
+            <br>
         - Join Us
-        <br>
-        <img src="docs/screenshots/ipad-join.JPG" width="250">
+            <br>
+            <img src="docs/screenshots/ipad-join.JPG" width="250">
+            <br>
 
 - I confirm that all the navigation links, icons with links and buttons are working.
 - I can confirm that the form works properly. All the inputs are required, the email is validated and the submit button works.
