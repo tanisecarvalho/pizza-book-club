@@ -29,6 +29,10 @@ section {
     margin: 2rem 0;
 }
 
+section > p {
+    padding: 0 .5rem;
+}
+
 .reverse-section {
     background-color: #344E55;
     color: #E2DCD8;
@@ -100,6 +104,7 @@ footer {
 
 footer p {
     font-size: 1rem;
+    padding: 0 .5rem;
 }
 
 footer a {
