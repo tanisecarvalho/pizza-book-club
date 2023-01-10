@@ -182,18 +182,26 @@ The palette was defined uploading the logo on the [Canva Color Palette Generator
 ### Validator Testing
 
 - HTML
-  - No errors were returned when passing through the official W3C validator
+  - No errors were returned when passing the pages through the official W3C validator:
     - [Home Page](https://validator.w3.org/nu/?doc=https%3A%2F%2Ftanisecarvalho.github.io%2Fpizza-book-club%2F)
-    - [2023 Picks]()
-    - [Join Us]()
-    - [Thank You]()
-    - [404]()
+    - [2023 Picks](https://validator.w3.org/nu/?doc=https%3A%2F%2Ftanisecarvalho.github.io%2Fpizza-book-club%2F2023-picks.html)
+    - [Join Us](https://validator.w3.org/nu/?doc=https%3A%2F%2Ftanisecarvalho.github.io%2Fpizza-book-club%2Fjoin-us.html)
+    - [Thank You](https://validator.w3.org/nu/?doc=https%3A%2F%2Ftanisecarvalho.github.io%2Fpizza-book-club%2Fthank-you.html)
+    - [404](https://validator.w3.org/nu/?doc=https%3A%2F%2Ftanisecarvalho.github.io%2Fpizza-book-club%2F404.html)
 - CSS
   - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Ftanisecarvalho.github.io%2Fpizza-book-club%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 - Accessibility
     - Using Lighthouse on devtools, I can confirm that the colors and fonts chosen are easy to read and accessible.
-
-![Lighthouse](docs/screenshots/lighthouse.JPG)
+        - Home
+            ![Lighthouse Home](docs/screenshots/lighthouse-home.JPG)
+        - 2023 Picks
+            ![Lighthouse 2023 Picks](docs/screenshots/lighthouse-picks.JPG)
+        - Join Us
+        ![Lighthouse Join Us](docs/screenshots/lighthouse-join.JPG)
+        - Thank You
+            ![Lighthouse Thank You](docs/screenshots/lighthouse-thank.JPG)
+        - 404
+        ![Lighthouse 404](docs/screenshots/lighthouse-404.JPG)
 
 
 ### Bugs
