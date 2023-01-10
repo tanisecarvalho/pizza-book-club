@@ -152,23 +152,38 @@ The palette was defined uploading the logo on the [Canva Color Palette Generator
 
 - This site was tested on the browsers: Firefox, Chrome and Safari on desktop and it worked.
     - __Chrome__
-    ![Home Page on Chrome](docs/screenshots/chrome-home.JPG)
-    ![2023 Picks on Chrome](docs/screenshots/chrome-picks.JPG)
-    ![Join Us on Chrome](docs/screenshots/chrome-join.JPG)
-    ![Thank You on Chrome](docs/screenshots/chrome-thank.JPG)
-    ![404 on Chrome](docs/screenshots/chrome-404.JPG)
+        - Home Page
+            ![Home Page on Chrome](docs/screenshots/chrome-home.JPG)
+        - 2023 Picks
+            ![2023 Picks on Chrome](docs/screenshots/chrome-picks.JPG)
+        - Join Us
+            ![Join Us on Chrome](docs/screenshots/chrome-join.JPG)
+        - Thank You
+            ![Thank You on Chrome](docs/screenshots/chrome-thank.JPG)
+        - 404
+            ![404 on Chrome](docs/screenshots/chrome-404.JPG)
     - __Safari__
-    ![Home Page on Safari](docs/screenshots/safari-home.JPG)
-    ![2023 Picks on Safari](docs/screenshots/safari-picks.JPG)
-    ![Join Us on Safari](docs/screenshots/safari-join.JPG)
-    ![Thank You on Safari](docs/screenshots/safari-thank.JPG)
-    ![404 on Safari](docs/screenshots/safari-404.JPG)
+        - Home Page
+            ![Home Page on Safari](docs/screenshots/safari-home.JPG)
+        - 2023 Picks
+            ![2023 Picks on Safari](docs/screenshots/safari-picks.JPG)
+        - Join Us
+            ![Join Us on Safari](docs/screenshots/safari-join.JPG)
+        - Thank You
+            ![Thank You on Safari](docs/screenshots/safari-thank.JPG)
+        - 404
+            ![404 on Safari](docs/screenshots/safari-404.JPG)
     - __Firefox__
-    ![Home Page on Firefox](docs/screenshots/firefox-home.JPG)
-    ![2023 Picks on Firefox](docs/screenshots/firefox-picks.JPG)
-    ![Join Us on Firefox](docs/screenshots/firefox-join.JPG)
-    ![Thank You on Firefox](docs/screenshots/firefox-thank.JPG)
-    ![404 on Firefox](docs/screenshots/firefox-404.JPG)
+        - Home Page
+            ![Home Page on Firefox](docs/screenshots/firefox-home.JPG)
+        - 2023 Picks
+            ![2023 Picks on Firefox](docs/screenshots/firefox-picks.JPG)
+        - Join Us
+            ![Join Us on Firefox](docs/screenshots/firefox-join.JPG)
+        - Thank You
+            ![Thank You on Firefox](docs/screenshots/firefox-thank.JPG)
+        - 404
+            ![404 on Firefox](docs/screenshots/firefox-404.JPG)
 
 - I tested the responsiveness of this site on devtools and I can confirm it worked for all screen sizes.
     - __iPhone SE - 375 x 667__
