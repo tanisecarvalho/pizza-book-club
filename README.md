@@ -104,6 +104,8 @@ The palette was defined uploading the logo on the [Canva Color Palette Generator
 
 ## Testing
 
+### Responsiveness
+
 - This site was tested on the browsers: Firefox, Chrome and Safari on desktop and it worked.
 - This site was tested on the browsers Chrome and Safari on mobile and it worked.
 - I tested the responsiveness of this site on devtools and I can confirm it worked for all screen sizes.
@@ -136,6 +138,8 @@ The palette was defined uploading the logo on the [Canva Color Palette Generator
 ***
 
 ## Deployment
+
+### Remote Deployment
 
 - The site was deployed to GitHub pages. The steps to deploy are as follows: 
   - In the GitHub repository, navigate to the Settings tab 

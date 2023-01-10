@@ -11,7 +11,7 @@
 body {
     font-family: 'Lora', sans-serif;
     font-weight: 400;
-    font-size: 1.2rem;
+    font-size: 1rem;
     color: #3a3a3a;
     background-color: #E2DCD8;
     min-height: 100vh;
@@ -59,16 +59,19 @@ header {
     background-color: #344E55;
     font-family: 'Montserrat';
     display: flex;
+    flex-direction: column;
     justify-content: space-between;
     align-items: center;
 }
 
 #menu {
     letter-spacing: 4px;
-    line-height: 75px;
+    line-height: normal;
     display: flex;
-    margin-right: 2.5rem;
-    gap: 2.5rem;
+    flex-direction: column;
+    margin: 0 0 2rem;
+    gap: 1rem;
+    text-align: center;  
 }
 
 #menu li {
@@ -253,6 +256,7 @@ footer i {
 /* contact section */
 
 #contact {
+    flex-direction: column;
     justify-content: space-evenly;
     gap: 1rem;
 }
@@ -416,20 +420,19 @@ footer i {
 
 /* media queries */
 
-@media screen and (max-width:768px) {
+@media screen and (min-width:768px) {
     body {
-        font-size: 1rem;
+        font-size: 1.2rem;
     }
 
     header, #menu, #contact {
-        flex-direction: column;
+        flex-direction: row;
     }
 
     #menu {
-        line-height: normal;
-        margin: 0 0 2rem;
-        gap: 1rem;
-        text-align: center;
+        line-height: 75px;
+        margin-right: 2.5rem;
+        gap: 2.5rem;
     }
 
     .join-us-form {
